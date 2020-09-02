@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperAssemblies", "MapperA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapWithAssemblyReference", "MapWithAssemblyReference\MapWithAssemblyReference.btproj", "{F3C3BC90-F099-4371-BFE0-2ADDBD1B56F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDIFACT", "EDIFACT\EDIFACT.btproj", "{E9B05978-7E53-4742-B2C2-F3C195D295B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,12 @@ Global
 		{F3C3BC90-F099-4371-BFE0-2ADDBD1B56F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3C3BC90-F099-4371-BFE0-2ADDBD1B56F8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F3C3BC90-F099-4371-BFE0-2ADDBD1B56F8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E9B05978-7E53-4742-B2C2-F3C195D295B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B05978-7E53-4742-B2C2-F3C195D295B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B05978-7E53-4742-B2C2-F3C195D295B9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E9B05978-7E53-4742-B2C2-F3C195D295B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B05978-7E53-4742-B2C2-F3C195D295B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B05978-7E53-4742-B2C2-F3C195D295B9}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
